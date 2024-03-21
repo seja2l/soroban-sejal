@@ -1,1 +1,1 @@
-# soroban-sejal
+# Stellar-Workshop-Template
